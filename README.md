@@ -17,14 +17,14 @@ Em ![Python](https://img.icons8.com/color/20/000000/python.png) Python:
 
 ```python
 # Exemplo de como importar a MageArmor em Python
-from magearmor import SecurePrompt
+from magearmor import guardCast
 ```
 
 Em ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript:
 
 ```javascript
 // Exemplo de como importar a MageArmor em JavaScript
-import { SecurePrompt } from 'magearmor';
+import { guardCast } from 'magearmor';
 ```
 
 > 💡 **Nota**: Certifique-se de que o ambiente está configurado corretamente para suportar Python ou JavaScript, dependendo do projeto.
