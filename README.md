@@ -1,6 +1,8 @@
 # 🛡️ MageArmor
 
-![ícone do MageArmor](#) <!-- Substituir com o link do ícone quando disponível -->
+<p align="center">
+  <img src="src/mageArmor.png" alt="Logo do MageArmor" height="440" width="485"/>
+</p>
 
 MageArmor é uma biblioteca simples, direta e eficiente desenvolvida para proteger sistemas de IA contra ataques de prompt injection. Com funções otimizadas, nossa biblioteca ajuda a analisar prompts e reforçar a segurança, tornando suas aplicações mais resistentes a injeções de comandos indesejados.
 
