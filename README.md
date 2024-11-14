@@ -30,7 +30,7 @@ import { guardCast } from 'magearmor';
 > 💡 **Nota**: Certifique-se de que o ambiente está configurado corretamente para suportar Python ou JavaScript, dependendo do projeto.
 
 ### 📖 [Documentação Completa](#)
-Encontre todas as funcionalidades, detalhes de instalação e mais exemplos de uso na nossa [Documentação](#). Explore nossos guias para começar com facilidade e proteger suas aplicações.
+Encontre todas as funcionalidades, detalhes de instalação e mais exemplos de uso na nossa [Documentação](https://magearmor.gitbook.io/documentacao-magearmor). Explore nossos guias para começar com facilidade e proteger suas aplicações.
 
 ## 📬 Contato
 
