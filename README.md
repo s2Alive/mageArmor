@@ -4,7 +4,7 @@
   <img src="src/mageArmor.png" alt="Logo do MageArmor" height="440" width="485"/>
 </p>
 
-MageArmor é uma biblioteca simples, direta e eficiente desenvolvida para proteger sistemas de IA contra ataques de prompt injection. Com funções otimizadas, nossa biblioteca ajuda a analisar prompts e reforçar a segurança, tornando suas aplicações mais resistentes a injeções de comandos indesejados.
+MageArmor é uma biblioteca simples, direta e eficiente desenvolvida para proteger sistemas de IA contra ataques de prompt injection. Com funções otimizadas, nossa biblioteca ajuda a analisar prompts e reforçar a segurança, tornando suas aplicações mais resistentes a injeções de comandos indesejados. A defesa é direcionada a sistemas de assistentes especializados, para entender melhor leia a documentação.
 
 ## 🌟 Características
 - **Segurança Avançada**: Protege contra ataques de prompt injection em ambientes de IA.
@@ -13,14 +13,16 @@ MageArmor é uma biblioteca simples, direta e eficiente desenvolvida para proteg
 
 ## 🚀 Começando
 
-Em ![Python](https://img.icons8.com/color/20/000000/python.png) Python:
+Em ![Python](https://img.icons8.com/color/20/000000/python.png) Python.
+Baixe utilizando: pip install mageArmor
 
 ```python
 # Exemplo de como importar a MageArmor em Python
 from magearmor import guardCast
 ```
 
-Em ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript:
+Em ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript.
+Baixe utilizando: npm i magearmor
 
 ```javascript
 // Exemplo de como importar a MageArmor em JavaScript
